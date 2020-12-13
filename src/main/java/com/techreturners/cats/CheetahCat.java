@@ -11,5 +11,6 @@ public class CheetahCat extends AbstractCat {
     public String eat(){
         return "Zzzzzzz";
     }
-
+    
+    public void run() {};
 }

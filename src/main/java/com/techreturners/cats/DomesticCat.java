@@ -9,15 +9,12 @@ public class DomesticCat extends AbstractCat {
     }
 
     public String eat(){
-        if(Math.random() <0.5)
+        if(Math.random() <1)
             return "Purrrrrrr";
         else 
             return "It will do I suppose";
     }
 
-    public void run() {
-        // TODO
-
-    }
+    public void run() {};
 
 }

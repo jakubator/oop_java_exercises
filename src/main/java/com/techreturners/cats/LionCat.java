@@ -12,7 +12,5 @@ public class LionCat extends AbstractCat {
         return "Roar!!!!";
     }
 
-    public void run() {
-        // TODO
-    }
+    public void run() {}
 }
